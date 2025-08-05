@@ -2,10 +2,11 @@ build:
   version: "5.0"
 
 cards:
-  message: "Welcome to ZeroMoney accounts related local APIs"
+  message: "Welcome to ZeroMoney cards related local APIs"
   contactDetails:
     name: "Fumino - Developer"
     email: "Fuminox@zeromoney.com"
   onCallSupport:
     -(57) 123456789
+
     -(57) 987654321

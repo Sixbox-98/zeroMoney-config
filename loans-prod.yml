@@ -1,0 +1,11 @@
+build:
+  version: "5.0"
+
+loans:
+  message: "Welcome to ZeroMoney accounts related local APIs"
+  contactDetails:
+    name: "Sixbox - Developer"
+    email: "Sixbox@zeromoney.com"
+  onCallSupport:
+    -(57) 123456789
+    -(57) 987654321

@@ -1,0 +1,11 @@
+build:
+  version: "4.0"
+
+accounts:
+  message: "Welcome to ZeroMoney accounts related local APIs"
+  contactDetails:
+    name: "Nenum - Developer"
+    email: "nenum@zeromoney.com"
+  onCallSupport:
+    -(57) 123456789
+    -(57) 987654321

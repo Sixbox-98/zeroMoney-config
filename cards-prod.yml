@@ -4,9 +4,9 @@ build:
 cards:
   message: "Welcome to ZeroMoney cards related local APIs"
   contactDetails:
-    name: "Fumino - Developer"
-    email: "Fuminox@zeromoney.com"
+    name: "Kyomoto - Developer"
+    email: "kyomoto@zeromoney.com"
   onCallSupport:
     -(57) 123456789
-
     -(57) 987654321
+

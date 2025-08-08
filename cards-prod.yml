@@ -4,11 +4,12 @@ build:
 cards:
   message: "Welcome to ZeroMoney cards related local APIs"
   contactDetails:
-    name: "Fujino - Developer"
-    email: "fujino@zeromoney.com"
+    name: "Denji - Developer"
+    email: "denji@zeromoney.com"
   onCallSupport:
     -(57) 123456789
     -(57) 987654321
+
 
 
 
